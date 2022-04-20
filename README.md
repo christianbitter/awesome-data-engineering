@@ -3,47 +3,34 @@ A curated list of awesome data engineering resources from around the technospher
 
 ## Community, Start-Up and Enterprise Tech Blogs
 The following is a list of resources coming from enterprise and start-up sites.
-- Netflix Tech (Big Data tagged)
+- Netflix Tech (Big Data tagged)  
 https://netflixtechblog.com/tagged/big-data
-
-Airbnb Data Science and Data Platform Engineering
+- Airbnb Data Science and Data Platform Engineering  
 https://medium.com/airbnb-engineering/data/home
-
-PInterest
+- PInterest  
 https://medium.com/pinterest-engineering
-
-Uber Engineering
+- Uber Engineering  
 https://eng.uber.com/
-
-Ripple Engineering
+- Ripple Engineering  
 https://engineering.ripple.com/
-
-Facebook
+- Facebook  
 https://engineering.fb.com/
-
-Spotify
+- Spotify  
 https://engineering.atspotify.com/
-
-Linkedin Engineering
+- Linkedin Engineering  
 https://engineering.linkedin.com/blog
-
-Yelp Engineering Blog
+- Yelp Engineering Blog  
 https://engineeringblog.yelp.com/
-
-Amazon
+- Amazon  
 https://aws.amazon.com/blogs/big-data/category/analytics/
-
-Alibaba
+- Alibaba  
 https://alibabatech.medium.com/
-
-Walmart
+- Walmart  
 https://medium.com/walmartglobaltech/tagged/data-engineering
-
-Climate
+- Climate  
 https://climate.com/tech-at-climate-corp/
-
-Reddit
-https://www.reddit.com/r/dataengineering/comments/lpqpkl/data_engineering_case_study_interviews/
+- Reddit
+  https://www.reddit.com/r/dataengineering/comments/lpqpkl/data_engineering_case_study_interviews/
 
 ## Thought Leaders
 Jesse Anderson
